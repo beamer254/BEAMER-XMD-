@@ -1,0 +1,7 @@
+FROM node:lts-buster
+RUN git clone https://github.com/beamer254/BEAMER-XMD/root/iksanglee
+WORKDIR /root/iksanglee
+RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+COPY . .
+EXPOSE 9090
+CMD ["npm", "start"]
