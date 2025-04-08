@@ -1,6 +1,6 @@
-const { malvin } = require('../malvin');
+const { lee } = require('../lee');
 
-malvin({
+lee({
     pattern: "remove",
     alias: ["kick", "k", "out"],
     desc: "Removes a member from the group",
