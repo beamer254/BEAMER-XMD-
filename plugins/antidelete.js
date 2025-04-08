@@ -1,5 +1,5 @@
 /*
-const { malvin } = require('../malvin');
+const { lee } = require('../lee');
 const { downloadMediaMessage } = require('../lib/msg');
 const fs = require("fs");
 
@@ -7,7 +7,7 @@ const fs = require("fs");
 const settingsFile = "./data/antidelete.json";
 let antiDeleteSettings = fs.existsSync(settingsFile) ? JSON.parse(fs.readFileSync(settingsFile)) : { enabled: false };
 
-malvin({
+lee({
   pattern: "antidelete",
   desc: "Activate or deactivate anti-delete feature: Deleted messages will be sent to the owner's private chat.",
   category: "misc",
