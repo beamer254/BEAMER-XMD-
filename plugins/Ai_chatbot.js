@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XD
-Creator      : Malvin King (Mr. Lord Malvin)
-Repo         : https://github.com/XdKing2/MALVIN-XD
-Support      : wa.me/263714757857
+Project Name : BEAMER-XMD 
+Creator      : Sang Lee
+Repo         : https://github.com/beamer254/BEAMER-XMD 
+Support      : wa.me/254116266407
 
 ### ⚠️ Disclaimer
 
@@ -13,7 +13,7 @@ Support      : wa.me/263714757857
 ---
 */
 
-const { malvin, commands } = require('../malvin');
+const { lee, commands } = require('../lee');
 const { chatbotEnabled } = require('./settings');
 
 // Expanded phrases and responses, designed to sound more engaging and conversational
@@ -94,7 +94,7 @@ const phrasesResponses = [
     { phrase: ["tell me something", "say something", "talk to me"], response: "I'm always here for a chat! Ask me anything or just say hi! 😄" },
     { phrase: ["are you smart", "how smart are you", "you're smart"], response: "I like to think I'm pretty smart, but I owe it all to my awesome creator, *Malvin King*! 😎" },
     { phrase: ["do you like anime", "anime", "watch anime"], response: "I think anime is pretty cool! What’s your favorite series?" },
-    { phrase: ["who is your favorite character", "best anime character", "anime fav"], response: "I’m all about those anime vibes! But my favorite? Hmm, I’d say *Jinwoo* from *Solo Leveling*. 😆" },
+    { phrase: ["who is your favorite character", "best anime character", "anime fav"], response: "I’m all about those anime vibes! But my favorite? Hmm, I’d say *beamerxmd* from *Solo Leveling*. 😆" },
     // Add more responses as needed
 ];
 
