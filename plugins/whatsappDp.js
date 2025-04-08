@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 
-malvin({
+lee({
   pattern: "wadp",
   desc: "Download WhatsApp profile picture",
   react: "⏳",
