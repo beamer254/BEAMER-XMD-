@@ -1,7 +1,7 @@
-const { malvin } = require("../malvin");
+const { lee } = require("../lee");
 const fetch = require("node-fetch");
 
-malvin({
+lee({
   pattern: 'gitclone',
   alias: ["git"],
   desc: "Download GitHub repository as a zip file.",
