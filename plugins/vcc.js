@@ -1,7 +1,7 @@
 const axios = require('axios');
-const { malvin } = require('../malvin');
+const { lee } = require('../lee');
 
-malvin({
+lee({
     pattern: "vcc",
     desc: "🎴 Generate Virtual Credit Cards (VCCs)",
     react: "💳",
