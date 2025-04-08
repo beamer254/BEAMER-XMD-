@@ -1,4 +1,4 @@
-const { malvin } = require('../malvin');
+const { lee } = require('../lee');
 const config = require("../settings");
 
 // Configurable lists
