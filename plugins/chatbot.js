@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { malvin } = require('../malvin');
+const { malvin } = require('../lee');
 const settingsPath = path.join(__dirname, "../settings.js");
 
 malvin({
@@ -10,7 +10,7 @@ malvin({
   category: "owner",
   filename: __filename
 }, async (conn, mek, m, { args, reply, isOwner }) => {
-  if (!isOwner) return reply("Only bot deployer or *Malvin King* can do this.");
+  if (!isOwner) return reply("Only bot deployer or *Sang Lee* can do this.");
 
   const option = args[0]?.toLowerCase();
   if (!["on", "off"].includes(option)) {
