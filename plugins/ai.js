@@ -1,15 +1,15 @@
 
 
 const axios = require("axios");
-const { malvin } = require("../malvin");
+const { lee } = require("../lee");
 
 malvin({
-    pattern: "malvin",
-    alias: "malvin",
+    pattern: "lee",
+    alias: "lee",
     desc: "Interact with ChatGPT using the XD Api.",
     category: "ai",
     react: "🤖",
-    use: ".malvin <your query>",
+    use: ".lee <your query>",
     filename: __filename,
 }, async (conn, mek, m, { from, args, q, reply }) => {
     try {
@@ -90,7 +90,7 @@ Please report this issue or try again later.
         return reply(errorMessage);
     }
 });
-malvin({
+lee({
     pattern: "llama3",
     desc: "Get a response from Llama3 AI using the provided prompt.",
     category: "ai",
