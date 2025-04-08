@@ -1,8 +1,8 @@
 const config = require('../settings')
-const { malvin, commands } = require('../malvin')
+const { malvin, commands } = require('../lee')
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson} = require('../lib/functions')
 
-malvin({
+lee({
     pattern: "hidetag",
     react: "🔊",
     desc: "To Tag all Members for Message",
