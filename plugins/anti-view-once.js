@@ -1,6 +1,6 @@
-const { malvin } = require("../malvin");
+const { lee } = require("../lee");
 
-malvin({
+lee({
   pattern: "vv",
   alias: ["viewonce", 'retrive'],
   react: '👻',
