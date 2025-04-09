@@ -2,7 +2,7 @@
 
 
 
- <a href="https://github.com/beamer254"><img src="http://localhost:8080/paircode.htmlhttps://files.catbox.moe/9ngevx.jpg" width="250" height="250" alt="Sang Lee Tech"/></a>
+ <a href="https://github.com/beamer254"><img src="https://files.catbox.moe/9ngevx.jpg" width="250" height="250" alt="Sang Lee Tech"/></a>
 
 
 
