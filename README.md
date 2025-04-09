@@ -11,20 +11,7 @@
   . Star the repo with courage 🌟.
 
 
-
-
-
-# 🍴𝐅𝐨𝐫𝐤 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
-
-- FORK THE REPOSITORY [𝐅𝐎𝐑𝐊🍴](https://github.com/beamer254/BEAMER-XMD/fork)
-  
-
-```
-```
-   
-  
-
-         ## 🇰🇪𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+   .## 🇰🇪𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
 - [𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐌𝐄](https://wa.me/254116266407)
 
