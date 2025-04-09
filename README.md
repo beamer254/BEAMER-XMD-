@@ -1,8 +1,7 @@
 <h1 align="center"> ★BEAMER-XMD ★ <br></h1>
 
 
-
-        <a href="https://github.com/beamer254"><img                               src="https://files.catbox.moe/9ngevx.jpg" width="250"                 height="250" alt="Sang Lee Tech"/></a>
+<a href="https://github.com/beamer254"><img src="https://files.catbox.moe/9ngevx.jpg" width="250"        height="250" alt="Sang Lee Tech"/></a>
 
 
 
