@@ -26,3 +26,8 @@
 
 ## THANKS☠💀🇰🇪
   
+
+
+CONTRIBUTERS
+MALVIN KING 
+https://github.com/XdKing2
